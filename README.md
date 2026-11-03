@@ -41,14 +41,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakshi-git17&theme=radical" width="600"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakshi-git17&theme=radical" width="400"/>
 </p>
 ---
 
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakshi-git17&theme=radical" width="600"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakshi-git17&theme=radical" width="400"/>
 </p>
 
 ---
